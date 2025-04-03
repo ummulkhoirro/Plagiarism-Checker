@@ -1,9 +1,6 @@
 streamlit
 requests
-beautifulsoup4
 pdfplumber
-Pillow
 pytesseract
 matplotlib
-difflib
-
+Pillow
